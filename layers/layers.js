@@ -335,7 +335,7 @@ var lyr_border_Don_23 = new ol.layer.Vector({
 var group_GABAM = new ol.layer.Group({
                                 layers: [lyr_2021_2,lyr_2020_3,lyr_2019_4,lyr_2018_5,lyr_2017_6,lyr_2016_7,lyr_2015_8,lyr_2014_9,lyr_2013_10,lyr_2012_11,lyr_2011_12,lyr_2010_13,lyr_2009_14,lyr_2008_15,lyr_2007_16,lyr_2006_17,lyr_2005_18,lyr_2004_19,lyr_2003_20,lyr_2002_21,lyr_2001_22,],
                                 fold: 'close',
-                                title: "GABAM"});
+                                title: "Природные пожары"});
 var group_ = new ol.layer.Group({
                                 layers: [lyr_OSMStandardDark_0,lyr_OSMStandardLight_1,],
                                 title: "Базовая карта"});
